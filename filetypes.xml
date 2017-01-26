@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="wav" type="Native" />
+      <mapping ext="mp3" type="Native" />
+      <mapping pattern="passthrough_fragment" type="PLAIN_TEXT" />
+      <mapping ext="shader" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
